@@ -1,7 +1,8 @@
 # SHELLCODE-RUNNER
 
 YoU can compile it using C:\Windows\Microsoft.NET\Framework\v4.0.30319 csc.exe with admin credentials.
-csc.exe "C:\Users\Andrea\source\repos\ConsoleApp1\ConsoleApp1\Program.cs"
+
+ - csc.exe "C:\Users\Andrea\source\repos\ConsoleApp1\ConsoleApp1\Program.cs"
 
 
 /*	SIMPLE SHELLCODE RUNNER
